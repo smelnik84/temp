@@ -1,0 +1,6 @@
+{
+  <br/>"name": "test-repo",<br/>
+  "description": "frome-console",<br/>
+  "homepage": "https://github.com",<br/>
+  "private": false,<br/>
+}
